@@ -1,0 +1,136 @@
+#main {
+	margin:           32px;
+	background-color: #00CCFF;
+	border-radius:    25px;
+	border:           1px solid;
+	width:            auto;
+	height:           100%;
+}
+
+#loginmain {
+	margin:           32px;
+	background-color: #00CCFF;
+	border-radius:    25px;
+	border:           1px solid;
+	width:            auto;
+	height:           50%;
+}
+
+#signin {
+	width:            256px;
+	margin:           16px;
+	border-radius:    25px;
+	background-color: #FF99FF;
+	box-shadow:       10px 10px 5px #888888;
+	text-align:       center;
+	margin-left:      auto;
+	margin-right:     auto;
+}
+#signin2 {
+	width:            256px;
+	margin:           16px;
+	border-radius:    25px;
+	background-color: #FF99FF;
+	box-shadow:       10px 10px 5px #888888;
+	text-align:       center;
+	margin-left:      auto;
+	margin-right:     auto;
+}
+
+body {
+	background-color: #F8F8F8;  
+}
+
+h1 {
+	text-align:       center;
+	border-radius:    25px;
+	border:           1px solid;
+	box-shadow:       10px 10px #000000;
+	margin-left:      256px;
+	margin-right:     256px;
+	background-color: #FF99FF
+}
+
+table, th, td {
+	text-align: center;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input {
+	border-radius:    15px;
+}
+
+.navbar {
+	list-style-type:  none;
+	text-align:       center;
+	padding:          0;
+	margin-left:      112px;
+	margin-right:     112px;
+	background-color: black;
+	border-width:     thin;
+	border-style:     solid;
+	border-color:     teal;
+	border-radius:    25px;
+	font-size:        18px;
+	font-weight:      bold;
+}
+.navbar li {
+	display:       inline;
+	padding-left:  10px; 
+	padding-right: 10px;
+	padding: 0;
+	margin: 0;
+	color: #FF99FF;
+	font-weight:      bold;
+	font-size:        18px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color:           #FF99FF;
+	padding: 0;
+	margin: 0;
+}
+.navbar a:hover {
+	color: yellow; 
+	padding: 0;
+	margin: 0;
+}
+
+.navbar2 {
+	list-style-type:  none;
+	text-align:       center;
+	padding:          0;
+	margin-left:      456px;
+	margin-right:     456px;
+	background-color: black;
+	border-width:     thin;
+	border-style:     solid;
+	border-color:     teal;
+	border-radius:    25px;
+	font-size:        18px;
+	font-weight:      bold;
+}
+.navbar2 li {
+	display:       inline;
+	padding-left:  10px; 
+	padding-right: 10px;
+	padding: 0;
+	margin: 0;
+	color: #FF99FF;
+	font-weight:      bold;
+	font-size:        18px;
+}
+.navbar2 a {
+	text-decoration: none;
+	color:           #FF99FF;
+	padding: 0;
+	margin: 0;
+}
+.navbar2 a:hover {
+	color: yellow; 
+	padding: 0;
+	margin: 0;
+}
